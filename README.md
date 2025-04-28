@@ -46,7 +46,3 @@ Then drop new CSV files into the `watch_folder/` and monitor the dashboard live.
 - `app/main.py` – Main Streamlit + Watchdog app
 - `watch_folder/` – Folder being watched for new files
 - `README.md` – Project documentation
-
----
-
-⚡ Built with Pandas, Streamlit, Watchdog, and a bit of Email Magic ✉️
